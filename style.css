@@ -1,0 +1,99 @@
+.container{
+    text-align: center;
+    margin-left: 0%;
+
+    
+}
+h1{
+    margin-right: 8%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.candidate{
+    margin-left:6%;
+    margin-top: 6%;
+
+}
+#about yourself{
+    color:white;
+    text-align: left;
+    margin-left:2%; 
+    height: 81px;
+    width: 1010px;
+    background-color: rgb(105, 107, 105);
+    background-color: grey;
+}
+.Information{
+    margin-left: 1%;
+    padding-bottom: 2%;
+}
+
+#Additional{
+    width: 1018px;
+    height: 86px;
+    padding-bottom: 2%;
+    box-sizing: border-box;
+    margin-right: 15%;
+    background-color: grey;
+    color:honeydew;
+    text-align: left;
+}
+
+.information{
+    margin-left: 2%;
+}
+.Interests{
+    
+    margin-top: 2%;
+    margin-left: 1%;
+    height: 10%;
+    width: 10%;
+    background-color: lightgray;
+
+    
+    
+}
+div{
+    
+    height: auto;
+    width: auto;
+    background-color: rgb(203, 206, 199);
+    margin-right: 10%;
+    margin-left: 20%;
+}
+select{
+    margin-top: 0%;
+    width:1018px;S
+    height:86px;
+    color: grey;
+    
+    
+}
+input{
+    margin: 0px;
+    width: 1005px;
+    height: 80px;
+    color:white;
+    background-color: grey;
+    margin-left: 2%;
+    
+    
+    
+}
+.button{
+    margin:right 4%;
+    margin-top: 2%;
+    width: 1038px;
+    height:80px;
+
+    background-color:green;
+    
+    color: white;
+
+    
+    text-align: center;
+  
+    font-size: 24px;
+
+    
+}
